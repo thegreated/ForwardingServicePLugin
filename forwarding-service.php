@@ -1,16 +1,16 @@
 <?php
 /**
- * @package  AlecadddPlugin
+ * @package  Forwarding_Service
  */
 /*
-Plugin Name: Alecaddd Plugin
-Plugin URI: http://alecaddd.com/plugin
-Description: This is my first attempt on writing a custom Plugin for this amazing tutorial series.
+Plugin Name: Forwarding Service
+Plugin URI: http://@
+Description: A Forwarind Service like LBC.
 Version: 1.0.0
-Author: Alessandro "Alecaddd" Castellani
-Author URI: http://alecaddd.com
+Author: Edward Arilla
+Author URI: http://@
 License: GPLv2 or later
-Text Domain: alecaddd-plugin
+Text Domain: forwarding-service
 */
 
 /*

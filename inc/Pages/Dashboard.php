@@ -1,6 +1,6 @@
 <?php 
 /**
- * @package  AlecadddPlugin
+ * @package  Forwarding Service
  */
 namespace Inc\Pages;
 
